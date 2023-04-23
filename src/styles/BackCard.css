@@ -1,0 +1,14 @@
+.back-card {
+    position: absolute;
+    height: 245px;
+    inset: 50% -35% auto auto;
+    color:var(--white);
+    border-radius: 1rem;
+    box-shadow: 5px 20px 50px hsla(0, 0%, 0%, .15);
+}
+
+.back-card-cvc {
+    position: absolute;
+    inset: 110px 60px auto auto;
+    letter-spacing: 2px;
+}
